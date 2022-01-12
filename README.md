@@ -6,8 +6,10 @@
 from University at Buffalo 2020 (GPA 3.8)</span> </span>
 <br>
 <img src="UB_Logo.png" alt="University at Buffalo" style="width:300px;height:300px;">
- <span style="color: Black"> 2) Bachelor of Technology - Instrumentation and Control Engineering 
-from College of Engineeering Pune </span> 
+<br>
+ <span style="color: Black"> 
+ <span style="font-size:120%;"> 2) Bachelor of Technology - Instrumentation and Control Engineering 
+from College of Engineeering Pune </span> </span>
 <br>
 <img src="COEP_logo.jfif" alt="COEP" style="width:300px;height:300px;">
  
