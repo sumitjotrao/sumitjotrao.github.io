@@ -1,26 +1,6 @@
 
 # Sumit Jotrao Portfolio
-<h2>Sumit Jotrao </h2>
-<h3>Educational Background </h3>
- <span style="color: Black">
-   <span style="font-size:120%;">1) Master of science - Industrial Engineering with specialization in Operations Research 2020 (GPA 3.8)</span> </span>
-<br>
- <span style="color: Black">
-   <span style="font-size:120%;">  University at Buffalo </span> </span>
-<br>
-<img src="UB_Logo.png" alt="University at Buffalo" style="width:300px;height:300px;">
-<br>
- <span style="color: Black"> 
- <span style="font-size:120%;"> 2) Bachelor of Technology - Instrumentation and Control Engineering 
-<br>
-College of Engineeering Pune </span> </span>
-<br>
-<img src="COEP_logo.jfif" alt="COEP" style="width:300px;height:300px;">
- 
- <h1 style="background-color:powderblue;">This is a heading</h1> 
-<span style="color: green"> Work Experience </span>
 
-Petrofac 
  
 
 
