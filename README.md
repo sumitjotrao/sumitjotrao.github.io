@@ -5,7 +5,7 @@
    <span style="font-size:120%;">1) Master of science - Industrial Engineering with specialization in Operations Research 2020 (GPA 3.8)</span> </span>
 <br>
  <span style="color: Black">
-   <span style="font-size:120%;"> University at Buffalo </span> </span>
+   <span style="font-size:120%;">  University at Buffalo </span> </span>
 <br>
 <img src="UB_Logo.png" alt="University at Buffalo" style="width:300px;height:300px;">
 <br>
