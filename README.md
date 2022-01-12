@@ -1,7 +1,7 @@
 
-# Sumit Jotrao
 
-## **Educational Background**
+<h1>Sumit Jotrao </h1>
+<h1>Educational Background </h1>
  <span style="color: Black">
    <span style="font-size:120%;">1) Master of science - Industrial Engineering with specialization in Operations Research 2020 (GPA 3.8)</span> </span>
 <br>
